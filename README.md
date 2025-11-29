@@ -1,0 +1,5 @@
+ As part of the British Airways Forage Project, I was first tasked with calculating the sentiment of flight reviews from passengers and identifying key topics discussed. I was then tasked with evaluating various machine learning models in Python to discern which customer metrics lead to a customer sucessfully booking a flight. I was able to optimize a Random Forest model to classify people booking a flight with 86% accuracy.
+
+ As part of the Electronic Arts SWE Forage Project, I was assigned to review and edit a C file to change the C-style arrays to vectors for a more efficient runtime.
+
+As part of the Quantium Forage Project, I was responsible for developing a data preprocessing pipeline to clean transaction and customer data from CSV files for given stores and finding key customer groups. I was then tasked with presenting a final presentation summarizing my findings and key insights. This project allowed me to develop and refine my knowledge of data processing pipelines and data visualization techniques
